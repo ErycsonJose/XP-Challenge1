@@ -16,7 +16,7 @@ Criar um site de cátalogo de produtos com layout responsivo que contenha as seg
 
 ## Temática
 
-A The Shoes é referência no varejo calçadista nacional com atuação física nos estados do Ceará, Pernambuco e Paraíba. Uma empresa que a partir de Fortaleza vem crescendo com passos firmes para se consolidar como uma das maiores redes do segmento no país ao longo da sua história de mais de 90 anos. Para este ano, planeja a expansão de sua marca para o comércio digital unindo tradição e modernidade para estar sempre na moda, levando as tendências em sapatos, bolsas e acessórios para todos.
+A The Shoes é referência no varejo calçadista nacional com atuação física nos estados do Ceará, Pernambuco e Paraíba. Uma empresa que a partir de Fortaleza vem crescendo com passos firmes para se consolidar como uma das maiores redes do segmento no país ao longo da sua história de mais de 90 anos. Para o ano de 2021, planeja a expansão de sua marca para o comércio digital unindo tradição e modernidade para estar sempre na moda, levando as tendências em sapatos, bolsas e acessórios para todo o Brasil.
 
 ## Planejamento do projeto
 
