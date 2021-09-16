@@ -26,7 +26,7 @@ Na loja The Shoes, o cliente visualiza todos os produtos oferecidos. O cliente s
 
 ### Histórias do usuário
 
-#### Definindo as histórias de usuários (levantamento dos requisitos necessários)
+#### Definindo as histórias dos usuários (levantamento dos requisitos necessários)
 
 ID | Descrição das histórias dos usuários
 :---:| :-----------------------------------
@@ -87,3 +87,7 @@ ID | História | Prioridade
 |ID da Sprint | ID | Funcionalidades - Histórias | Complexidade | Início | Fim |
 |:-----------:| :---: | :----------------------: | :----------: | :-----: | :-----: |
 | 03          | #7 | Criar About us Components   | fácil        | 20/09/2021 | 20/09/2021 |
+
+> ## Ferramentas de apoio
+> Utilizamos o **Trello** como ferramenta de apoio no desenvolvimento do projeto para organização das atividades. Link da área de trabalho.
+> <https://trello.com/b/SzSSY2eg/gama-experience-desafio-1>
