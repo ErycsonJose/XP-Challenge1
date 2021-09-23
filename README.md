@@ -91,3 +91,7 @@ ID | História | Prioridade
 > ## Ferramentas de apoio
 > Utilizamos o **Trello** como ferramenta de apoio no desenvolvimento do projeto para organização das atividades. Link da área de trabalho.
 > <https://trello.com/b/SzSSY2eg/gama-experience-desafio-1>
+
+## Preview
+
+![Preview Page](./images/preview_page.png)
