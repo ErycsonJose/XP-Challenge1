@@ -89,9 +89,20 @@ ID | História | Prioridade
 | 03          | #7 | Criar About us Components   | fácil        | 20/09/2021 | 20/09/2021 |
 
 > ## Ferramentas de apoio
+
 > Utilizamos o **Trello** como ferramenta de apoio no desenvolvimento do projeto para organização das atividades. Link da área de trabalho.
 > <https://trello.com/b/SzSSY2eg/gama-experience-desafio-1>
 
 ## Preview
 
-![Preview Page](./images/preview_page.png)
+### Desktop View
+
+<p align="center">
+    <img width="460" height="300" src="./images/preview_page.gif">
+</p>
+
+### Moblie View
+
+<p align="center">
+    <img width="360" height="640" src="./images/mobile_preview.gif">
+</p>
